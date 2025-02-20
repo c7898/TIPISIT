@@ -7,7 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>CIAO 5C INFORMATICA</h1>
-  <h4>Esercitazione 1</h4>
+    <h1>Sistemi distribuiti</h1>
+    
+  <h4>Teoria</h4>
+    
+    <h4>Pratica</h4>
 </body>
 </html>
