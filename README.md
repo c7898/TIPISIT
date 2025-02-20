@@ -22,11 +22,20 @@
     <h4>Teoria</h4>
 
 <h4>Pratica</h4>
-Esercitazione 8 scaricabile
 
-<a title="Esercitazione sul ping"
-href="https://drive.google.com/file/d/1xnVUrx3gVwb--XEDBk1zyh_6e1QdFBht/view" >
-Visita HTML.it
+<pre>
+  <code>
+    // This is a sample JavaScript function
+    function greet() {
+      console.log('Hello, world!');
+    }
+  </code>
+</pre>
+
+
+<a href="https://drive.google.com/file/d/1xnVUrx3gVwb--XEDBk1zyh_6e1QdFBht/view" >
+Scarica l'esercitazione 8 sul Ping
 </a>
 </body>
+
 </html>
