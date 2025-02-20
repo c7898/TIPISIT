@@ -23,6 +23,10 @@
 
 <h4>Pratica</h4>
 Esercitazione 8 scaricabile
-<href="https://drive.google.com/file/d/1xnVUrx3gVwb--XEDBk1zyh_6e1QdFBht/view"></href>
+
+<a title="Esercitazione sul ping"
+href="https://drive.google.com/file/d/1xnVUrx3gVwb--XEDBk1zyh_6e1QdFBht/view" >
+Visita HTML.it
+</a>
 </body>
 </html>
