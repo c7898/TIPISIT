@@ -25,10 +25,7 @@
 
 <pre>
   <code>
-    // This is a sample JavaScript function
-    function greet() {
-      console.log('Hello, world!');
-    }
+    Codice da INSERIRE
   </code>
 </pre>
 
