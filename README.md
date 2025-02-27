@@ -30,7 +30,7 @@
 </pre>
 
 
-<a href="https://github.com/c7898/TIPISIT/blob/1a8fcd124bf0d48139a9367a6b9bd2658bccaaab/Esercitazione/Es08Barnaba.zip">
+<a href="https://raw.github.com/c7898/TIPISIT/blob/1a8fcd124bf0d48139a9367a6b9bd2658bccaaab/Esercitazione/Es08Barnaba.zip">
 Scarica l'esercitazione 8 sul Ping
 </a>
 </body>
