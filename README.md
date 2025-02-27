@@ -30,7 +30,7 @@
 </pre>
 
 
-<a href="https://drive.google.com/file/d/1xnVUrx3gVwb--XEDBk1zyh_6e1QdFBht/view">
+<a href="https://github.com/c7898/TIPISIT/blob/954aa45f9bf43d2f3a24fba799ffcc8db814ed7e/Teoria/HTTP.pdf">
 Scarica l'esercitazione 8 sul Ping
 </a>
 </body>
