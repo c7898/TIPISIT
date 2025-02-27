@@ -30,7 +30,7 @@
 </pre>
 
 
-<a href="https://drive.google.com/file/d/1xnVUrx3gVwb--XEDBk1zyh_6e1QdFBht/view" >
+<a href="https://drive.google.com/file/d/1xnVUrx3gVwb--XEDBk1zyh_6e1QdFBht/view">
 Scarica l'esercitazione 8 sul Ping
 </a>
 </body>
