@@ -34,10 +34,7 @@
 Scarica l'esercitazione 8 sul Ping
 </a>
 
-<h1>Introduzione ai Socket</h1>
-<p>I socket di rete sono un'interfaccia fondamentale per la comunicazione tra dispositivi su una rete, che consente l'invio e la ricezione di dati tra computer. Sono utilizzati in molte applicazioni, da quelle di messaggistica in tempo reale a servizi web e applicazioni distribuite. Questo repository esplora come implementare e utilizzare i socket di rete in vari contesti di programmazione, attraverso esempi pratici e teoria per comprenderne il funzionamento e l'uso.</p>
-
-<h4>Socket</h4>
+<h1>Socket</h1>
 <p>I socket di rete sono interfacce che permettono la comunicazione tra dispositivi su una rete, utilizzando protocolli come TCP (affidabile) e UDP (veloce). Consentono lo scambio di dati tra applicazioni, sia in modalità connessione (TCP) che senza connessione (UDP). I socket sono fondamentali per lo sviluppo di applicazioni distribuite, come server, client, e sistemi di messaggistica, che richiedono comunicazioni in tempo reale o asincrone.</p>
 
 </body>
