@@ -9,7 +9,7 @@
 </head>
 <body>
 
- <h1><a href="https://github.com/c7898/TIPISIT/raw/refs/heads/main/Teoria/Architettura e protocolli di rete.pdf">Architettura e protocolli di rete</a></h1>
+ <h1><a href="https://github.com/c7898/TIPISIT/raw/refs/heads/main/Teoria/Architetture e Protocolli di Rete.pdf">Architettura e protocolli di rete</a></h1>
  <p>Le architetture e i protocolli di rete con i socket sono fondamentali per la comunicazione tra dispositivi in una rete. I socket offrono un'interfaccia per la comunicazione tra processi, consentendo lo scambio di dati tra macchine attraverso una rete. In questo contesto, le architetture di rete definiscono la struttura e l'organizzazione della comunicazione, mentre i protocolli di rete stabiliscono le regole e i formati per la trasmissione dei dati. L'uso dei socket permette di implementare applicazioni di rete come server e client, utilizzando protocolli come TCP/IP per garantire la trasmissione sicura ed efficiente dei dati.</p>
  <h4>Pratica</h4>
  
