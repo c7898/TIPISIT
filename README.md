@@ -52,7 +52,6 @@ Scarica l'esercitazione 8 sul Ping
 <p>I socket di rete sono interfacce che permettono la comunicazione tra dispositivi su una rete, utilizzando protocolli come TCP (affidabile) e UDP (veloce). Consentono lo scambio di dati tra applicazioni, sia in modalità connessione (TCP) che senza connessione (UDP). I socket sono fondamentali per lo sviluppo di applicazioni distribuite, come server, client, e sistemi di messaggistica, che richiedono comunicazioni in tempo reale o asincrone.</p>
 <h4>Pratica</h4>
 
-
 <a href="https://github.com/c7898/TIPISIT/raw/refs/heads/main/Esercitazione/Esercitazione/ES12_Ramundo_Andrea.zip">
 Scarica l'esercitazione ES12 - Trasmissione di oggetti
 </a>
