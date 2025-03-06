@@ -40,19 +40,19 @@
 <p>La programmazione concorrente in Java riguarda la gestione di più thread di esecuzione che operano simultaneamente, permettendo al programma di eseguire più operazioni in parallelo. Questo approccio è particolarmente utile per migliorare le performance delle applicazioni, sfruttando al meglio i processori multi-core. In Java, la programmazione concorrente può essere implementata utilizzando thread (classi Thread o interfacce Runnable), e strumenti come il pacchetto java.util.concurrent, che offre costrutti avanzati per gestire la sincronizzazione e la comunicazione tra i thread. Grazie alla concorrenza, è possibile gestire compiti complessi, come l'elaborazione di grandi quantità di dati o la gestione di richieste simultanee in un'applicazione server.</p>
 
 <h4>Pratica</h4>
-<a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES12_Ramundo_Andrea.zip">
+<a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/Ramundo_Andrea_Esercitazione_Thread_18_10_2024.zip">
 ES02 - Esempio in java Thread stampa Ciao
 </a>
-<br>
-<a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES12_Ramundo_Andrea.zip">
+<br> 
+<a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES05_Ramundo_Andrea_Esercitazione_08_11_2024.zip">
 ES05 - parallelizare il controllo password fatto con ES04
 </a>
 <br>
-<a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES12_Ramundo_Andrea.zip">
+<a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES_06_Ramundo_Andrea_Esercitazione_22_11_2024.zip">
 ES06 - Integrazione progetto verifica scritta
 </a>
 <br>
-<a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES12_Ramundo_Andrea.zip">
+<a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES07_controllo_stringhe_Andrea_Ramundo.zip">
 ES07 - Parallelizzazione controllo stringhe - fase 2
 </a>
 <br>
