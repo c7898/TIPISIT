@@ -33,6 +33,14 @@
        e l'uso delle API per la gestione delle connessioni di rete.</p>
        <h4>Pratica</h4>
 
+
+
+
+<h1>Programmazione concorrente in Java</h1>
+<p>La programmazione concorrente in Java riguarda la gestione di più thread di esecuzione che operano simultaneamente, permettendo al programma di eseguire più operazioni in parallelo. Questo approccio è particolarmente utile per migliorare le performance delle applicazioni, sfruttando al meglio i processori multi-core. In Java, la programmazione concorrente può essere implementata utilizzando thread (classi Thread o interfacce Runnable), e strumenti come il pacchetto java.util.concurrent, che offre costrutti avanzati per gestire la sincronizzazione e la comunicazione tra i thread. Grazie alla concorrenza, è possibile gestire compiti complessi, come l'elaborazione di grandi quantità di dati o la gestione di richieste simultanee in un'applicazione server.</p>
+
+<h4>Pratica</h4>
+
   <h1><a href="https://github.com/c7898/TIPISIT/raw/refs/heads/main/Teoria/Read-Write-Serializable.pdf">Read-Write-Serializable</a></h1>
     <p>Questo documento tratta la scrittura, lettura e serializzazione dei file in Java. 
        Spiega l'uso di classi come <strong>PrintWriter, BufferedWriter, FileWriter</strong> per la scrittura, 
@@ -59,6 +67,8 @@ Scarica l'esercitazione ES11 - Operazione di Somma su architettura C/S
 <a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES12_Ramundo_Andrea.zip">
 Scarica l'esercitazione ES12 - Trasmissione di oggetti
 </a>
+
+
 </body>
 
 </html>
