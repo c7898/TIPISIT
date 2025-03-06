@@ -43,19 +43,19 @@
 <a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES12_Ramundo_Andrea.zip">
 ES02 - Esempio in java Thread stampa Ciao
 </a>
-
+<br>
 <a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES12_Ramundo_Andrea.zip">
 ES05 - parallelizare il controllo password fatto con ES04
 </a>
-
+<br>
 <a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES12_Ramundo_Andrea.zip">
 ES06 - Integrazione progetto verifica scritta
 </a>
-
+<br>
 <a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES12_Ramundo_Andrea.zip">
 ES07 - Parallelizzazione controllo stringhe - fase 2
 </a>
-
+<br>
 
 
   <h1><a href="https://github.com/c7898/TIPISIT/raw/refs/heads/main/Teoria/Read-Write-Serializable.pdf">Read-Write-Serializable</a></h1>
