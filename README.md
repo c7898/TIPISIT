@@ -23,7 +23,7 @@
        Vengono trattate anche sicurezza e qualità del servizio nelle reti.</p>
        <h4>Pratica</h4>
 
-  <h1><a href="https://github.com/c7898/TIPISIT/raw/refs/heads/main/Teoria/Parte2 - Introduzione ai Socket.pdf">Parte2 - Introduzione ai Socket</a></h1>
+  <h1><a href="https://github.com/c7898/TIPISIT/raw/refs/heads/main/Teoria/Parte2- Introduzione ai Socket.pdf">Parte2 - Introduzione ai Socket</a></h1>
     <p>Un'introduzione ai socket di rete, fondamentali per la comunicazione tra processi su diverse macchine. 
        Spiega l'identificazione tramite <strong>indirizzo IP e numero di porta</strong>, il modello client-server, 
        e l'uso delle API per la gestione delle connessioni di rete.</p>
