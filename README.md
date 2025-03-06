@@ -61,7 +61,7 @@ Scarica l'esercitazione 8 sul Ping
 Scarica l'esercitazione ES11 - Operazione di Somma su architettura C/S
 </a>
 
-<a href="[https://github.com/c7898/TIPISIT/raw/refs/heads/main/Esercitazione/Es08Barnaba.zip](https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES12_Ramundo_Andrea.zip)">
+<a href="https://github.com/c7898/TIPISIT/raw/refs/heads/main/Esercitazione/Esercitazione/ES12_Ramundo_Andrea.zip">
 Scarica l'esercitazione ES12 - Trasmissione di oggetti
 </a>
 </body>
