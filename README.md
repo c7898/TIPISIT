@@ -9,7 +9,7 @@
 </head>
 <body>
 
- <h1>HTTP</h1>
+  <h1><a href="https://github.com/c7898/TIPISIT/raw/refs/heads/main/Teoria/HTTP.pdf">HTTP</a></h1>
     <p>Una guida dettagliata sul protocollo HTTP e il modello client/server. 
        Copre la struttura dei messaggi HTTP, i metodi di richiesta (GET, POST, PUT, DELETE), 
        le intestazioni, i codici di stato e le connessioni permanenti. 
