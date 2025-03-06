@@ -8,8 +8,6 @@
     <p>Questo repository GitHub è stato creato con l'intento di documentare e condividere tutti i lavori e i progetti realizzati durante il corso di Tecnologie e Progettazione di sistemi informatici (TPSIT). Al suo interno troverete una raccolta di esercizi, progetti, approfondimenti e soluzioni a tematiche trattate nel corso, con l'obiettivo di fornire una panoramica chiara e organizzata delle competenze acquisite. Il repository servirà non solo come riferimento personale, ma anche come risorsa utile per chiunque voglia esplorare gli argomenti affrontati in questa disciplina.</p>
 </head>
 <body>
-    
- <h4>Pratica</h4>
 
  <h1>HTTP.pdf</h1>
     <p>Una guida dettagliata sul protocollo HTTP e il modello client/server. 
