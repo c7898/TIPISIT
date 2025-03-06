@@ -16,14 +16,14 @@
        Viene anche introdotto l'uso di strumenti come <strong>cURL</strong> per il testing.</p>
        <h4>Pratica</h4>
 
-  <h1>Parte1 - Architetture e Protocolli di Rete</h1>
+   <h1><a href="https://github.com/c7898/TIPISIT/raw/refs/heads/main/Teoria/Parte1 - Architetture e Protocolli di Rete.pdf">Parte1 - Architetture e Protocolli di Rete</a></h1>
     <p>Questo documento introduce le architetture e i protocolli di rete. 
        Spiega il modello <strong>ISO/OSI</strong> e <strong>TCP/IP</strong>, le architetture client-server e peer-to-peer (P2P), 
        e i protocolli di trasporto come <strong>TCP</strong> e <strong>UDP</strong>. 
        Vengono trattate anche sicurezza e qualità del servizio nelle reti.</p>
        <h4>Pratica</h4>
 
-  <h1>Parte2 - Introduzione ai Socket</h1>
+  <h1><a href="https://github.com/c7898/TIPISIT/raw/refs/heads/main/Teoria/Parte2 - Introduzione ai Socket.pdf">Parte2 - Introduzione ai Socket</a></h1>
     <p>Un'introduzione ai socket di rete, fondamentali per la comunicazione tra processi su diverse macchine. 
        Spiega l'identificazione tramite <strong>indirizzo IP e numero di porta</strong>, il modello client-server, 
        e l'uso delle API per la gestione delle connessioni di rete.</p>
@@ -52,7 +52,7 @@ Scarica l'esercitazione 8 sul Ping
 <p>I socket di rete sono interfacce che permettono la comunicazione tra dispositivi su una rete, utilizzando protocolli come TCP (affidabile) e UDP (veloce). Consentono lo scambio di dati tra applicazioni, sia in modalità connessione (TCP) che senza connessione (UDP). I socket sono fondamentali per lo sviluppo di applicazioni distribuite, come server, client, e sistemi di messaggistica, che richiedono comunicazioni in tempo reale o asincrone.</p>
 <h4>Pratica</h4>
 
-<a href="https://github.com/c7898/TIPISIT/blob/main/Esercitazione/ES12_Ramundo_Andrea.zip">
+<a href="https://github.com/c7898/TIPISIT/raw/refs/heads/main/Esercitazione/Esercitazione/ES12_Ramundo_Andrea.zip">
 Scarica l'esercitazione ES12 - Trasmissione di oggetti
 </a>
 </body>
