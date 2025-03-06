@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <p>Questo repository GitHub è stato creato con l'intento di documentare e condividere tutti i lavori e i progetti realizzati durante il corso di Tecnologie e Progettazione di sistemi informatici (TPSIT). Al suo interno troverete una raccolta di esercizi, progetti, approfondimenti e soluzioni a tematiche trattate nel corso, con l'obiettivo di fornire una panoramica chiara e organizzata delle competenze acquisite. Il repository servirà non solo come riferimento personale, ma anche come risorsa utile per chiunque voglia esplorare gli argomenti affrontati in questa disciplina.</p>
 </head>
-<body>
+<body>prova prova 
 
  <h1><a href="https://github.com/c7898/TIPISIT/raw/refs/heads/main/Teoria/Architetture e Protocolli di Rete.pdf">Architettura e protocolli di rete</a></h1>
  <p>Le architetture e i protocolli di rete con i socket sono fondamentali per la comunicazione tra dispositivi in una rete. I socket offrono un'interfaccia per la comunicazione tra processi, consentendo lo scambio di dati tra macchine attraverso una rete. In questo contesto, le architetture di rete definiscono la struttura e l'organizzazione della comunicazione, mentre i protocolli di rete stabiliscono le regole e i formati per la trasmissione dei dati. L'uso dei socket permette di implementare applicazioni di rete come server e client, utilizzando protocolli come TCP/IP per garantire la trasmissione sicura ed efficiente dei dati.</p>
