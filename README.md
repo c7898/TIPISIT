@@ -14,24 +14,24 @@
     
  <h4>Pratica</h4>
 
- <h2>HTTP.pdf</h2>
+ <h1>HTTP.pdf</h1>
     <p>Una guida dettagliata sul protocollo HTTP e il modello client/server. 
        Copre la struttura dei messaggi HTTP, i metodi di richiesta (GET, POST, PUT, DELETE), 
        le intestazioni, i codici di stato e le connessioni permanenti. 
        Viene anche introdotto l'uso di strumenti come <strong>cURL</strong> per il testing.</p>
 
-  <h2>Parte1 - Architetture e Protocolli di Rete.pdf</h2>
+  <h1>Parte1 - Architetture e Protocolli di Rete.pdf</h1>
     <p>Questo documento introduce le architetture e i protocolli di rete. 
        Spiega il modello <strong>ISO/OSI</strong> e <strong>TCP/IP</strong>, le architetture client-server e peer-to-peer (P2P), 
        e i protocolli di trasporto come <strong>TCP</strong> e <strong>UDP</strong>. 
        Vengono trattate anche sicurezza e qualità del servizio nelle reti.</p>
 
-  <h2>Parte2 - Introduzione ai Socket.pdf</h2>
+  <h1>Parte2 - Introduzione ai Socket.pdf</h1>
     <p>Un'introduzione ai socket di rete, fondamentali per la comunicazione tra processi su diverse macchine. 
        Spiega l'identificazione tramite <strong>indirizzo IP e numero di porta</strong>, il modello client-server, 
        e l'uso delle API per la gestione delle connessioni di rete.</p>
 
-  <h2>Read-Write-Serializable.pdf</h2>
+  <h1>Read-Write-Serializable.pdf</h1>
     <p>Questo documento tratta la scrittura, lettura e serializzazione dei file in Java. 
        Spiega l'uso di classi come <strong>PrintWriter, BufferedWriter, FileWriter</strong> per la scrittura, 
        e <strong>Scanner, BufferedReader, FileReader</strong> per la lettura. 
